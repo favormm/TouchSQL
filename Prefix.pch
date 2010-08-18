@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'TouchSQL' target in the 'TouchSQL' project.
+//
+
+#ifdef __OBJC__
+	#define TXComponentID @"TouchSQL"
+
+    #import <Foundation/Foundation.h>
+#endif
