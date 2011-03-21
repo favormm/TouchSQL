@@ -30,9 +30,6 @@
 		45E261D10EEF49030014A071 /* CSqliteDatabase_Functions.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261B40EEF49030014A071 /* CSqliteDatabase_Functions.m */; };
 		45E261D20EEF49030014A071 /* CSqliteEnumerator.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261B60EEF49030014A071 /* CSqliteEnumerator.m */; };
 		45E261D30EEF49030014A071 /* CSqliteStatement.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261B80EEF49030014A071 /* CSqliteStatement.m */; };
-		45E261D40EEF49030014A071 /* CObjectTranscoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BB0EEF49030014A071 /* CObjectTranscoder.m */; };
-		45E261D50EEF49030014A071 /* CPersistentObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BD0EEF49030014A071 /* CPersistentObject.m */; };
-		45E261D60EEF49030014A071 /* CPersistentObjectManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BF0EEF49030014A071 /* CPersistentObjectManager.m */; };
 		45E261D70EEF49030014A071 /* CRandomAccessTemporaryTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261C10EEF49030014A071 /* CRandomAccessTemporaryTable.m */; };
 		45E261D80EEF49030014A071 /* NSArray_SqlExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261C40EEF49030014A071 /* NSArray_SqlExtensions.m */; };
 		45E261D90EEF49030014A071 /* NSData_SqlExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261C60EEF49030014A071 /* NSData_SqlExtensions.m */; };
@@ -49,12 +46,6 @@
 		45E261E60EEF49030014A071 /* CSqliteEnumerator.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261B60EEF49030014A071 /* CSqliteEnumerator.m */; };
 		45E261E70EEF49030014A071 /* CSqliteStatement.h in Headers */ = {isa = PBXBuildFile; fileRef = 45E261B70EEF49030014A071 /* CSqliteStatement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		45E261E80EEF49030014A071 /* CSqliteStatement.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261B80EEF49030014A071 /* CSqliteStatement.m */; };
-		45E261E90EEF49030014A071 /* CObjectTranscoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 45E261BA0EEF49030014A071 /* CObjectTranscoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		45E261EA0EEF49030014A071 /* CObjectTranscoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BB0EEF49030014A071 /* CObjectTranscoder.m */; };
-		45E261EB0EEF49030014A071 /* CPersistentObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 45E261BC0EEF49030014A071 /* CPersistentObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		45E261EC0EEF49030014A071 /* CPersistentObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BD0EEF49030014A071 /* CPersistentObject.m */; };
-		45E261ED0EEF49030014A071 /* CPersistentObjectManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 45E261BE0EEF49030014A071 /* CPersistentObjectManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		45E261EE0EEF49030014A071 /* CPersistentObjectManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BF0EEF49030014A071 /* CPersistentObjectManager.m */; };
 		45E261EF0EEF49030014A071 /* CRandomAccessTemporaryTable.h in Headers */ = {isa = PBXBuildFile; fileRef = 45E261C00EEF49030014A071 /* CRandomAccessTemporaryTable.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		45E261F00EEF49030014A071 /* CRandomAccessTemporaryTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261C10EEF49030014A071 /* CRandomAccessTemporaryTable.m */; };
 		45E261F10EEF49030014A071 /* NSArray_SqlExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 45E261C30EEF49030014A071 /* NSArray_SqlExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -86,9 +77,6 @@
 		45F5DFC10FBF4A46004029AE /* NSDate_SqlExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261C80EEF49030014A071 /* NSDate_SqlExtension.m */; };
 		45F5DFC20FBF4A47004029AE /* NSDictionary_SqlExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261CA0EEF49030014A071 /* NSDictionary_SqlExtensions.m */; };
 		45F5DFC30FBF4A48004029AE /* NSString_SqlExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261CC0EEF49030014A071 /* NSString_SqlExtensions.m */; };
-		45F5DFC40FBF4A4B004029AE /* CObjectTranscoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BB0EEF49030014A071 /* CObjectTranscoder.m */; };
-		45F5DFC50FBF4A4B004029AE /* CPersistentObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BD0EEF49030014A071 /* CPersistentObject.m */; };
-		45F5DFC60FBF4A4C004029AE /* CPersistentObjectManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261BF0EEF49030014A071 /* CPersistentObjectManager.m */; };
 		45F5DFC70FBF4A4D004029AE /* CRandomAccessTemporaryTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E261C10EEF49030014A071 /* CRandomAccessTemporaryTable.m */; };
 		45F5DFCA0FBF4A99004029AE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0867D69BFE84028FC02AAC07 /* Foundation.framework */; };
 		8DC2EF510486A6940098B216 /* Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 32DBCF5E0370ADEE00C91783 /* Prefix.pch */; settings = {ATTRIBUTES = (); }; };
@@ -128,12 +116,6 @@
 		45E261B60EEF49030014A071 /* CSqliteEnumerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CSqliteEnumerator.m; sourceTree = "<group>"; };
 		45E261B70EEF49030014A071 /* CSqliteStatement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CSqliteStatement.h; sourceTree = "<group>"; };
 		45E261B80EEF49030014A071 /* CSqliteStatement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CSqliteStatement.m; sourceTree = "<group>"; };
-		45E261BA0EEF49030014A071 /* CObjectTranscoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CObjectTranscoder.h; sourceTree = "<group>"; };
-		45E261BB0EEF49030014A071 /* CObjectTranscoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CObjectTranscoder.m; sourceTree = "<group>"; };
-		45E261BC0EEF49030014A071 /* CPersistentObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPersistentObject.h; sourceTree = "<group>"; };
-		45E261BD0EEF49030014A071 /* CPersistentObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPersistentObject.m; sourceTree = "<group>"; };
-		45E261BE0EEF49030014A071 /* CPersistentObjectManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPersistentObjectManager.h; sourceTree = "<group>"; };
-		45E261BF0EEF49030014A071 /* CPersistentObjectManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPersistentObjectManager.m; sourceTree = "<group>"; };
 		45E261C00EEF49030014A071 /* CRandomAccessTemporaryTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CRandomAccessTemporaryTable.h; sourceTree = "<group>"; };
 		45E261C10EEF49030014A071 /* CRandomAccessTemporaryTable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CRandomAccessTemporaryTable.m; sourceTree = "<group>"; };
 		45E261C30EEF49030014A071 /* NSArray_SqlExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSArray_SqlExtensions.h; sourceTree = "<group>"; };
@@ -278,12 +260,6 @@
 		45E261B90EEF49030014A071 /* Experimental */ = {
 			isa = PBXGroup;
 			children = (
-				45E261BA0EEF49030014A071 /* CObjectTranscoder.h */,
-				45E261BB0EEF49030014A071 /* CObjectTranscoder.m */,
-				45E261BC0EEF49030014A071 /* CPersistentObject.h */,
-				45E261BD0EEF49030014A071 /* CPersistentObject.m */,
-				45E261BE0EEF49030014A071 /* CPersistentObjectManager.h */,
-				45E261BF0EEF49030014A071 /* CPersistentObjectManager.m */,
 				45E261C00EEF49030014A071 /* CRandomAccessTemporaryTable.h */,
 				45E261C10EEF49030014A071 /* CRandomAccessTemporaryTable.m */,
 			);
@@ -346,9 +322,6 @@
 				45E261E30EEF49030014A071 /* CSqliteDatabase_Functions.h in Headers */,
 				45E261E50EEF49030014A071 /* CSqliteEnumerator.h in Headers */,
 				45E261E70EEF49030014A071 /* CSqliteStatement.h in Headers */,
-				45E261E90EEF49030014A071 /* CObjectTranscoder.h in Headers */,
-				45E261EB0EEF49030014A071 /* CPersistentObject.h in Headers */,
-				45E261ED0EEF49030014A071 /* CPersistentObjectManager.h in Headers */,
 				45E261EF0EEF49030014A071 /* CRandomAccessTemporaryTable.h in Headers */,
 				45E261F10EEF49030014A071 /* NSArray_SqlExtensions.h in Headers */,
 				45E261F30EEF49030014A071 /* NSData_SqlExtensions.h in Headers */,
@@ -426,7 +399,11 @@
 			isa = PBXProject;
 			buildConfigurationList = 45E92DA80856B35600B7327A /* Build configuration list for PBXProject "TouchSQL" */;
 			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
 			mainGroup = 0867D691FE84028FC02AAC07 /* ToxicSQL */;
 			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
 			projectDirPath = "";
@@ -508,9 +485,6 @@
 				45E261D10EEF49030014A071 /* CSqliteDatabase_Functions.m in Sources */,
 				45E261D20EEF49030014A071 /* CSqliteEnumerator.m in Sources */,
 				45E261D30EEF49030014A071 /* CSqliteStatement.m in Sources */,
-				45E261D40EEF49030014A071 /* CObjectTranscoder.m in Sources */,
-				45E261D50EEF49030014A071 /* CPersistentObject.m in Sources */,
-				45E261D60EEF49030014A071 /* CPersistentObjectManager.m in Sources */,
 				45E261D70EEF49030014A071 /* CRandomAccessTemporaryTable.m in Sources */,
 				45E261D80EEF49030014A071 /* NSArray_SqlExtensions.m in Sources */,
 				45E261D90EEF49030014A071 /* NSData_SqlExtensions.m in Sources */,
@@ -537,9 +511,6 @@
 				45F5DFC10FBF4A46004029AE /* NSDate_SqlExtension.m in Sources */,
 				45F5DFC20FBF4A47004029AE /* NSDictionary_SqlExtensions.m in Sources */,
 				45F5DFC30FBF4A48004029AE /* NSString_SqlExtensions.m in Sources */,
-				45F5DFC40FBF4A4B004029AE /* CObjectTranscoder.m in Sources */,
-				45F5DFC50FBF4A4B004029AE /* CPersistentObject.m in Sources */,
-				45F5DFC60FBF4A4C004029AE /* CPersistentObjectManager.m in Sources */,
 				45F5DFC70FBF4A4D004029AE /* CRandomAccessTemporaryTable.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -553,9 +524,6 @@
 				45E261E40EEF49030014A071 /* CSqliteDatabase_Functions.m in Sources */,
 				45E261E60EEF49030014A071 /* CSqliteEnumerator.m in Sources */,
 				45E261E80EEF49030014A071 /* CSqliteStatement.m in Sources */,
-				45E261EA0EEF49030014A071 /* CObjectTranscoder.m in Sources */,
-				45E261EC0EEF49030014A071 /* CPersistentObject.m in Sources */,
-				45E261EE0EEF49030014A071 /* CPersistentObjectManager.m in Sources */,
 				45E261F00EEF49030014A071 /* CRandomAccessTemporaryTable.m in Sources */,
 				45E261F20EEF49030014A071 /* NSArray_SqlExtensions.m in Sources */,
 				45E261F40EEF49030014A071 /* NSData_SqlExtensions.m in Sources */,
@@ -601,6 +569,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				PRODUCT_NAME = All;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
@@ -611,6 +580,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				PRODUCT_NAME = All;
+				SDKROOT = macosx;
 				ZERO_LINK = NO;
 			};
 			name = Release;
@@ -618,6 +588,7 @@
 		45E92DA50856B35600B7327A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -648,12 +619,15 @@
 				LIBRARY_SEARCH_PATHS = /usr/lib;
 				OTHER_LDFLAGS = "-lsqlite3";
 				PRODUCT_NAME = TouchSQL;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
 		45E92DA60856B35600B7327A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -684,6 +658,7 @@
 				LIBRARY_SEARCH_PATHS = /usr/lib;
 				OTHER_LDFLAGS = "-lsqlite3";
 				PRODUCT_NAME = TouchSQL;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
@@ -712,6 +687,7 @@
 		45E931AB0856C12600B7327A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					/System/Library/Frameworks,
@@ -726,6 +702,7 @@
 				LIBRARY_STYLE = BUNDLE;
 				OTHER_LDFLAGS = "-lsqlite3";
 				PRODUCT_NAME = UnitTests;
+				SDKROOT = macosx;
 				WARNING_CFLAGS = (
 					"-Wmost",
 					"-Wno-four-char-constants",
@@ -738,6 +715,7 @@
 		45E931AC0856C12600B7327A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					/System/Library/Frameworks,
@@ -751,6 +729,7 @@
 				LIBRARY_STYLE = BUNDLE;
 				OTHER_LDFLAGS = "-lsqlite3";
 				PRODUCT_NAME = UnitTests;
+				SDKROOT = macosx;
 				WARNING_CFLAGS = (
 					"-Wmost",
 					"-Wno-four-char-constants",
@@ -764,6 +743,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -777,6 +757,7 @@
 				OTHER_LDFLAGS = "-lsqlite3";
 				PREBINDING = NO;
 				PRODUCT_NAME = Demo;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
@@ -784,6 +765,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_ENABLE_FIX_AND_CONTINUE = NO;
@@ -799,6 +782,7 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = Demo;
+				SDKROOT = macosx;
 				ZERO_LINK = NO;
 			};
 			name = Release;
